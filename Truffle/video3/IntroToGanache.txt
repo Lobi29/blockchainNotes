@@ -1,0 +1,9 @@
+                                Intro to Ganache :->
+
+Ganache is a personal blockchain for rapid Ethereum and Corda distributed application development.
+
+
+1) Develope
+2) Deploy
+3) Test
+
