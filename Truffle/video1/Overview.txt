@@ -1,0 +1,10 @@
+Overview:
+
+
+-> Ganache
+-> Writing Contract in VS code using Truffle
+-> Truffle Compilation
+-> Truffle Migration
+-> Infura
+-> Deploy Contract on testnet
+-> Frontend integratiion
