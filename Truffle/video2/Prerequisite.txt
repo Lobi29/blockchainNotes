@@ -1,0 +1,11 @@
+Prerequisites : 
+
+-> Solidity
+-> Remix IDE
+
+system requirements :
+
+-> Node.Js
+-> Metamask
+-> Ganache
+-> VS code
