@@ -1,0 +1,4 @@
+Compiling smart contract in VS code using truffle
+
+
+COMMAND for Compilation :       truffle compile
